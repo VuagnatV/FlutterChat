@@ -1,3 +1,9 @@
+Projet de Vincent VUAGNAT et Samir BOUKRI
+
+Basé sur l'application fait en cours,
+
+Il y a un bouton en haut à droite pour se logout dans le dashboard.
+
 # eferei2023gr109
 
 A new Flutter project.
