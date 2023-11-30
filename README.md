@@ -1,6 +1,8 @@
 Projet de Vincent VUAGNAT et Samir BOUKRI
 
-Basé sur l'application fait en cours,
+Basé sur l'application fait en cours.
+
+Pour ouvrir le chat il faut cliquer sur le bouton chat.
 
 Il y a un bouton en haut à droite pour se logout dans le dashboard.
 
